@@ -10,6 +10,11 @@ Something new
 
 Sample website with plenty of files for demos
 
+
+## Thanks
+
+Thank for nothing
+
 ### Copyright
 
 bla bla bla
